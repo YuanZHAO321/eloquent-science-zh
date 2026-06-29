@@ -1,6 +1,12 @@
 ---
 name: eloquent-science-zh
-description: 运用Eloquent Science的原则来指导科技写作与表达。适用于撰写、组织或修改研究论文、摘要、标题、图表或学术报告;为同行评审稿件撰写评审意见;或当用户希望获得更清晰、更简洁、达到发表水准的科技文字时。适用于任何技术学科。中文版(English version: eloquent-science)。
+description: >
+  运用 Eloquent Science 的原则来指导科技写作与表达。
+  适用于撰写、组织或修改研究论文、摘要、标题、图表或学术报告；
+  为同行评审稿件撰写评审意见；
+  或当用户希望获得更清晰、更简洁、达到发表水准的科技文字时。
+  适用于任何技术学科。
+  中文版（English version: eloquent-science）。
 ---
 
 # 科技写作之道(Eloquent Science 中文版)
